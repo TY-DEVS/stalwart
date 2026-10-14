@@ -8,3 +8,5 @@ run.sh
 !.github
 !.cargo
 CLAUDE.md
+config.bat
+node_modules
