@@ -7,3 +7,5 @@ run.sh
 !.gitattributes
 !.github
 !.cargo
+config.bat
+node_modules
